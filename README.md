@@ -42,7 +42,7 @@ Finally, we may also share your Personal Information to comply with applicable l
 BEHAVIOURAL ADVERTISING 
 We use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. 
 
-To use this website firstly you need to create an account where you need to fill the personal details. If you are already a user of this site you can directly login using username and password.
+To use this website firstly you need to create an account where you need to fill the personal details  which are saved in MS Access database . If you are already a user of this site you can directly login using username and password.
 It is a shopping site where you can purchase men's and women's related items such as clothes , footware and accessories etc.
 It also contains a help center where you can post your querry 
 It contains about page where all the information regarding the site is added.
