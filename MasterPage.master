@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 116px;
+        }
+        .style5
+        {
+            height: 127px;
+        }
+       *
+       {
+           margin:0px;
+           padding:0px;
+       }
+       #menu
+       {
+           margin-left:80px;
+       }
+      
+        #menu ul
+        {
+            list-style:none;
+        }
+        #menu ul li
+        {
+            
+            background-color:Aqua;
+            border:1px solid white;
+            width:190px;
+            height:35px;
+            line-height:35px;
+            text-align:center;
+            float:left;
+            position:relative;
+            border-style:dashed;
+        }
+        #menu ul li a
+        {
+            text-decoration:none;
+            display:block;
+        }
+        #menu ul li a:hover
+        {
+            background-color:Fuchsia;
+        }
+        #menu ul ul
+        {
+            position:absolute;
+            display:none;
+        }
+        #menu ul li:hover>ul
+        {
+            display:block;
+        }
+        #menu ul ul ul
+        {
+            margin-left:190px;
+            top:0px;
+        }
+            
+         .style6
+         {
+             width: 320px;
+             height: 127px;
+         }
+         .style8
+         {
+             width: 320px;
+         }
+            
+         .style9
+         {
+             width: 277px;
+             height: 119px;
+         }
+            
+    </style>
+    <asp:ContentPlaceHolder id="abc" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body bgcolor="#ffccff">
+    <form id="form1" runat="server">
+    <div>
+    <table class="style1">
+        <tr>
+            <td align="right" class="style6">
+                <img alt="" class="style9" src="icon/icon_img.png" /></td>
+            <td class="style5" 
+                
+                
+                style="font-family: 'Arial Black'; font-size: 60px; font-weight: bolder; color: #000000; font-style: italic;">
+                <asp:Label ID="Label1" runat="server" Text="MY SHOPPING CART"></asp:Label>
+            </td>
+        </tr>
+        <tr>
+            <td class="style8">
+                </td>
+            <td>
+                </td>
+        </tr>
+    </table>
+    </div>
+    <div id="menu">
+       <ul>
+            <li><a href="Home.aspx">HOME</a></li>
+            <li><a href="Products.aspx">PRODUCTS</a>
+            <ul>
+            <li><a href="Women.aspx">WOMEN FASHION</a>
+             <ul>
+            <li><a href="Clothing1.aspx">CLOHING</a></li>
+            <li><a href="footware1.aspx">FOOTWARE</a></li>
+            <li><a href="accessories1.aspx">ACCESSORIES</a></li>
+            </ul></li>
+            <li><a href="Men.aspx">MEN FASHION</a>
+             <ul>
+            <li><a href="clothing2.aspx">CLOHING</a></li>
+            <li><a href="footware2.aspx">FOOTWARE</a></li>
+            <li><a href="accessories2.aspx">ACCESSORIES</a></li>
+            </ul></li>
+            </ul></li>
+            
+            <li><a href="About.aspx">ABOUT</a></li>
+            <li><a href="Help Center.aspx">HELP CENTER</a></li>
+            <li><a href="Login.aspx">LOG OUT</a></li>
+
+       </ul>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+ 
+</body>
+</html>
