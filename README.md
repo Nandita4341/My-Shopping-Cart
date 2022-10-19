@@ -1,3 +1,19 @@
+![Screenshot (1)](https://user-images.githubusercontent.com/97718841/196751912-b540a4ba-112a-4443-9e9e-537075e779cc.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/97718841/196751936-47f2aa8a-25e5-4483-98a2-f75a8ee76fe4.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/97718841/196751941-be79505c-9219-42e5-9c17-adce5ea2f716.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/97718841/196751949-73f97902-8868-4440-919d-d087b657ed3a.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/97718841/196751962-be9acc23-5b17-4920-806b-aa42c7136ac4.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/97718841/196751965-b421b531-85ae-4939-b057-67ef300ec2d7.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/97718841/196751969-efda3f8c-13ae-4d1d-b8be-e91bc9e17ed3.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/97718841/196751976-a989000e-2fc2-47b2-a2fd-9a4a15edc514.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/97718841/196751980-daff599e-2c21-47a2-8632-1df0edfba76c.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/97718841/196751985-f72579da-1c3d-4221-a430-16aa0098ca3e.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/97718841/196751989-dfd65b23-652d-459d-9fac-334db32dea8e.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/97718841/196751991-e2a8a0c7-8d60-4412-b944-b01ebac1bc8f.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/97718841/196751998-560ff4a0-c7f7-4244-ae61-57b1f7817048.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/97718841/196752002-a004b963-0b85-426c-9312-1194cd73562c.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/97718841/196752022-09cd5fb7-cd78-4870-bdcd-429b9d8ba7df.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/97718841/196752028-ce4bc119-a55d-42db-a1b9-caebfe0d4fc4.png)
 # My-Shopping-Cart
 WHAT PERSONAL INFORMATION WE COLLECT
 
